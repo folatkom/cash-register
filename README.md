@@ -10,7 +10,7 @@ This project contains a function simulating a cash register drawer, taking as ar
 The function returns change divided into proper coin values or an adequate message if funds in the drawer are insufficient.
 
 ## Technologies
-Project is created with HTML, CSS, JavaScript and jQuery.
+Project is created JavaScript.
 
 ## Inspiration
 This project is inspired by task on freecodecamp.org (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register),
